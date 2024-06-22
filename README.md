@@ -1,16 +1,1 @@
-# notify_me
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![E-Commerce Facebook Ad (5)](https://github.com/youssef235/NotifyMe/assets/55225729/202a8409-da54-4d86-9f0a-e0226a4f717e)
